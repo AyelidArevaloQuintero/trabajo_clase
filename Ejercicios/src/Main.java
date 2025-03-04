@@ -11,5 +11,7 @@ public class Main {
         double altura = scanner.nextDouble();
 
         System.out.println("Hola " + nombre + ". Tienes " + edad + " años y mides " + altura + " m.");
+
+        scanner.close();
     }
 }

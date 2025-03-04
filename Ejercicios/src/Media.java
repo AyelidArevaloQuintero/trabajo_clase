@@ -18,6 +18,8 @@ public class Media {
         double media = suma / 3;
 
         System.out.println("El resultado es: " + media);
+
+        scanner.close();
     }
     
 }
