@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EjercicioParcial5 {
+public class EjercicioParcial15 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

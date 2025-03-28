@@ -7,7 +7,7 @@ public class EjercicioParcial6 {
         int num = input.nextInt();
 
         if(num > 0){
-            System.ot.println("El número es posiivo ");
+            System.out.println("El número es posiivo ");
         } else if(num < 0){
             System.out.println("El numero es negativo ");
         } else{

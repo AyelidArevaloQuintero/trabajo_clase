@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EjercicioParcial8 {
+public class EjercicioParcial9 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Ingrese la primera nota: ");
