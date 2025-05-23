@@ -30,11 +30,11 @@ public class Array15 {
             resultados[i][0] = input.nextInt();
             System.out.print("Goles " + equipos[i][1] + ": ");
             resultados[i][1] = input.nextInt();
-            input.nextLine(); // limpiar buffer
+            input.nextLine(); 
         }
 
         // Mostrar resultados de todos los partidos
-        System.out.println("\n--- Resultados de la Quiniela ---");
+        System.out.println("\n--- Resultados ---");
         for (int i = 0; i < numPartidos; i++) {
             System.out.println("Partido " + (i + 1) + ": " 
                 + equipos[i][0] + " " + resultados[i][0] 
